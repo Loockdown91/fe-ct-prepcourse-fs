@@ -1,0 +1,114 @@
+.fondo {
+    background-color: red;
+}
+
+.miTexto {
+    font-size: 80px;
+    color:blue
+}
+ol {
+    background-color:whitesmoke;
+}
+.cards {
+border: 2px solid black;
+
+
+
+
+}
+
+    
+
+
+.alinearlogos {
+    border: 2px solid black;  
+    display: flex;  
+    
+    
+    }
+
+ul {
+    background-color: whitesmoke;
+}
+
+.title{
+    font-size: 40px;
+    color: black;
+    transition: color 0.3s ease, font-weight 0.3s ease;
+    margin: auto;
+       
+   
+}
+
+.title:hover{
+   
+    color: orange; /* Color de resaltado */
+    font-weight: bold; /* Hacer el texto en negrita */
+    
+   
+}
+
+#menus{
+    font-size: 80px;
+    color: black;
+    transition: color 0.3s ease, font-weight 0.3s ease;
+    text-align: center; /* Centra el texto horizontalmente dentro del select */
+    margin: auto;
+    
+    
+    
+    
+   
+
+}
+
+#menus:hover{
+
+    
+    color: orange; /* Color de resaltado */
+    font-weight: bold; /* Hacer el texto en negrita */
+    
+    
+
+}
+#tmenus{
+    font-size: 80px;
+    color: black;
+    transition: color 0.3s ease, font-weight 0.3s ease;
+    text-align: center; /* Centra el texto horizontalmente dentro del select */
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+       
+   
+}
+
+
+#principal{
+    font-size: 100px;
+    color: grey;
+}
+hr {
+    border: 0;
+    height: 2px;
+    background-color: blue;
+   
+}
+
+.logo {
+    
+   width: 850px;
+}
+
+.logoprincipal {
+    
+   
+    width: auto;
+ }
+
+ .contenedor {
+    text-align: center;
+    border: 2px solid black;
+    
+ }
